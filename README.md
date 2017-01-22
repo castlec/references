@@ -6,3 +6,4 @@ Cool Stuff and Notes
 - [Python Online Courses](http://bafflednerd.com/learn-python-online/)
 - [Awesome Python Lib List](https://awesome-python.com/)
 - [Awesome Python Lib Search](https://python.libhunt.com/)
+- [Awesome Java Lib List](http://java-lang.github.io/awesome-java/)
